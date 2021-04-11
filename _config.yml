@@ -3,6 +3,7 @@ author: Olly V
 email: not-my-email@example.com
 description: > # this means to ignore newlines until "baseurl:"
   Well what can I say, just some good ol transformative, trippy and transcendant tunes!
+theme: minima
 
 # social links
 twitter_username: ov117 # DO NOT include the @ character, or else the build will fail!
